@@ -1,0 +1,9 @@
+python-telegram-bot
+streamlit
+opencv-python
+mediapipe
+Pillow
+numpy
+pandas
+sqlalchemy
+python-dotenv
